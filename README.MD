@@ -1,7 +1,7 @@
 🧠 Documento de Estudo e Prática
 Azure Speech Studio e Azure Language Studio
 
-✅ #Azure Speech Studio
+✅ Azure Speech Studio
 
 O Azure Speech Studio é uma plataforma da Microsoft voltada para a criação, teste e personalização de soluções de inteligência artificial de voz. Ele oferece ferramentas para:
 
@@ -15,7 +15,7 @@ O Azure Speech Studio é uma plataforma da Microsoft voltada para a criação, t
 
 Aplicações comuns: legendagem automática, assistentes de voz, comandos por voz, transcrição de reuniões, bots conversacionais com voz.
 
-✅ # Azure Language Studio
+✅ Azure Language Studio
 
 O Azure Language Studio é uma interface para explorar e construir soluções baseadas em Processamento de Linguagem Natural (NLP) usando os serviços de linguagem do Azure. Ele permite:
 
@@ -41,7 +41,7 @@ A combinação do Speech Studio com o Language Studio permite criar soluções c
 
  - Interfaces por voz em aplicativos com interpretação de intenções e sentimentos.
 
-🛠️ # Ferramentas Necessárias
+🛠️  Ferramentas Necessárias
 
 - Conta ativa no Microsoft Azure
 
