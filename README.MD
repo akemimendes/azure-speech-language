@@ -55,7 +55,7 @@ A combinação do Speech Studio com o Language Studio permite criar soluções c
 
  - Navegador moderno (Google Chrome, Edge, Firefox)
 
-📚 # Plano de Atividades para prática
+📚 Plano de Atividades para prática
 
 🔹 Etapa 1 – Reconhecimento e Síntese de Fala (Speech Studio)
 
